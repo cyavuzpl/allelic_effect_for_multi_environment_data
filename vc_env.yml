@@ -1,0 +1,9 @@
+name: vc_env
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.2
+  - r-vcfR
+  - r-tidyverse
+  - r-dplyr
+  - r-ggplot2
